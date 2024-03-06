@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T00:29:24.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KMWYJOu9oNzHMR84p2-A" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T00:30:06.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nez7uEjWKc0Xzh2Fy7eJ" version="23.1.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
         <mxCell id="Pgig-VzS2D-4uyWyRh4g-6" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="Pgig-VzS2D-4uyWyRh4g-4">
           <mxGeometry y="70" width="260" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="Pgig-VzS2D-4uyWyRh4g-15" value="getCustomer(id) : Customer&lt;div&gt;getOustandingRentals(id): RentalItem &amp;lt;&amp;gt;&lt;/div&gt;&lt;div&gt;inspectRentalOK(RentalItem) : boolean&lt;/div&gt;&lt;div&gt;retrieveRentalItem(barcode) : RentalItem&lt;/div&gt;&lt;div&gt;isRentalAvailable(id,barcode) : booleaan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Pgig-VzS2D-4uyWyRh4g-4">
+        <mxCell id="Pgig-VzS2D-4uyWyRh4g-15" value="getCustomer(id) : Customer&lt;div&gt;getOustandingRentals(id): RentalItem &amp;lt;&amp;gt;&lt;/div&gt;&lt;div&gt;inspectRentalOK(RentalItem) : boolean&lt;/div&gt;&lt;div&gt;retrieveRentalItem(barcode) : RentalItem&lt;/div&gt;&lt;div&gt;isRentalAvailable(id,barcode) : booleaan&lt;/div&gt;&lt;div&gt;returnWhoHas(RentalItem) : Customer&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Pgig-VzS2D-4uyWyRh4g-4">
           <mxGeometry y="78" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Pgig-VzS2D-4uyWyRh4g-8" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.031;entryY=-0.192;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--3" target="zkfFHV4jXpPFQw0GAbJ--21">
